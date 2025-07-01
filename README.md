@@ -6,6 +6,7 @@ This project showcases a multimodal user interface that enables two players to c
 We built a 2-player cooperative game where:
 
 🗣️ Player 1 controls the movement of the shark (up/down) using voice commands.
+
 ✋ Player 2 controls actions (eat fish and block bombs) using facial gestures and hand gestures.
 The goal is to collaboratively navigate the shark to eat fish (score points) and avoid bombs (avoid losing points).
 
